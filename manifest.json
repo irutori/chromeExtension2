@@ -1,6 +1,6 @@
 {
-	"name": "make simple",
-	"version": "0.1",
+	"name": "advuster(simple)",
+	"version": "0.1.1",
 	"manifest_version": 2,
 	"description": "Delete adv",
 	"content_scripts": [

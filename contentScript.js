@@ -8,6 +8,10 @@ var frame=$(".container_all iframe");
 for(var i=0;i<frame.size();i++){
 	frame[i].style.display="none";
 }
+var atag =$(".container_all>a");
+for(var i=0;i<atag.size();i++){
+atag[i].style.display="none";
+}
 
 var pop=$(".popularArticlesWithImage");
 for(var i=0;i<pop.size();i++){
